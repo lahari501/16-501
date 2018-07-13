@@ -1,0 +1,33 @@
+<style media="screen">
+		.flexparent{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+		}
+		.flexparent>div{
+			margin: 2%;
+			padding: 2%;
+			border: 2px solid #ddd;
+		}
+		.child1{
+			width: 100%;
+			margin: 2%;
+			padding: 2%;
+			border: 2px solid #ddd;
+		}
+		.child2{
+			width: 100%;
+			margin: 2%;
+			padding: 2%;
+			border: 2px solid #ddd;
+		}
+		img{
+			width: auto;
+			height: auto;
+			display: block;
+			margin-left: auto;
+			margin-right:auto;
+			border-radius: 50%;
+		}
+	</style>
+	@media only screen and (min-width: 320px) and (max-width: 480px);
