@@ -1,0 +1,47 @@
+{
+	"basics":{
+	"name":"lahari",
+	"email":"laharibessetty8727@gmail.com",
+	"mobile":"+91 8919195646"
+	},
+	"career":{
+		"info":"Ok this Incident might help you to get a proper job in proper field.One of my Team Mates was BCA Passout"
+	},
+	"education":[
+		{
+			"dreege":"B.Tech(cse)",
+			"institute":"Avanthi",
+			"data":["2016-19","65%"]
+		},
+		{
+			"dreege":"diploma(chemial)",
+			"institute":"GICE",
+			"data":["2013-15","70%"]
+		},
+		{
+			"dreege":"s.s.c",
+			"institute":"j.m.j EM school",
+			"data":["2011-12","72%"]
+		}
+	],
+
+	"skills":[
+		{
+			"title":"programming languages",
+			"info":["c","c++","java","html"]
+		},
+		{
+			"title":"database",
+			"info":["mysql","oracle"]
+		},
+		{
+			"title":"web techniology",
+			"info":["HTML5","css3","javascript"]
+		},
+		{
+			"title":"operating systems",
+			"info":["linux","unix","windows"]
+		}
+
+	]
+}
